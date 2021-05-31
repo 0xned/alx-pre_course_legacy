@@ -1,6 +1,6 @@
-#My First ALX Git Project
+My First ALX Git Project
 
-**I'm trying to use some markdowns here**
+**Update Readme**
 
-- Bullet1
-- Bullet2
+- My first commit: created main files
+- My second commit: added up_to_date file
